@@ -1,0 +1,28 @@
+.violeta{
+    background-color: blueviolet;
+    border-color: indigo;
+}
+
+button:hover{
+    background-color: rgb(236, 227, 245)!important;
+    border-color: indigo;
+    color: blueviolet!important;
+
+}
+
+.tamanio{
+    width: 18rem;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    gap: 2;
+}
+
+.botones{
+    display: flex;
+    justify-content: space-between;
+}
